@@ -1,0 +1,18 @@
+.odd {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.larger-font {
+    font-size: 24px;
+}
+
+#NoTwo {
+    color: blue;
+    font-size: 36px;
+}
+
+#NoFour {
+    background-color: lightgreen;
+    font-weight: bold;
+}
